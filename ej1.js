@@ -17,4 +17,4 @@ let sumarCuadros =(array)=>{
 }
 }
 
-console.log(sumarCuadros([[1,23,453,3267,12354, 123456]])) // ["pruebas", "tokens"]
+console.log(sumarCuadros([[1,23,453,3267,12354, 123456]])) 
